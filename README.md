@@ -42,3 +42,8 @@ Content:
 -Information of the students
 
 -Work done in python 3.7 and PyQt5
+
+----------------------------------------------------------------------------------------
+NOTA: Descomprimir carpeta “PyQt5” para poder arrancar el programa.
+
+NOTE: Unzip “PyQt5” folder to start the program.
